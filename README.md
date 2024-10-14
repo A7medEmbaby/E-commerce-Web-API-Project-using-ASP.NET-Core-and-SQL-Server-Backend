@@ -101,7 +101,7 @@ The project follows the **clean architecture** design pattern:
 
 ## 📊 Database Diagram
 <div align="center">
-<img src="https://github.com/user-attachments/assets/59762d15-ea26-4d60-bd07-cf194e3aa565" alt="Database Diagram" width="600"/>
+<img src="https://github.com/user-attachments/assets/490e4ba9-893c-45e0-a747-9338a2b5946b" alt="Database Diagram" width="600"/>
 </div>
 
 The above diagram illustrates the relationships between different entities in the E-Commerce application.
