@@ -97,6 +97,17 @@ The project follows the **clean architecture** design pattern:
 - **Repositories**: Handle data access using Entity Framework Core.
 - **DTOs (Data Transfer Objects)**: Decouple internal models from API responses.
 
+---
+
+## 📊 Database Diagram
+<div align="center">
+<img src="https://github.com/user-attachments/assets/59762d15-ea26-4d60-bd07-cf194e3aa565" alt="Database Diagram" width="600"/>
+</div>
+
+The above diagram illustrates the relationships between different entities in the E-Commerce application.
+
+---
+
 ## 📞 Contact Information
 
 For questions, feedback, or support, feel free to reach out:
